@@ -1,0 +1,33 @@
+# Copyright (C) 2018 Ameba What's New
+# This file is distributed under the same license as the Ameba What's New package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Ameba What's New 0.1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/ameba-whats-new\n"
+"POT-Creation-Date: 2018-06-24 05:30:02+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#. Plugin Name of the plugin/theme
+msgid "Ameba What's New"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://it-soudan.com/it/ameba-whats-new/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Show What's new list of any site with RSS"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "koyacode"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://it-soudan.com/"
+msgstr ""

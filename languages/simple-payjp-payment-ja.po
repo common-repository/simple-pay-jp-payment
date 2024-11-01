@@ -1,0 +1,78 @@
+# Copyright (C) 2018 Simple PAY.JP Payment
+# This file is distributed under the same license as the Simple PAY.JP Payment package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple PAY.JP Payment 0.1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/simple-payjp-payment\n"
+"POT-Creation-Date: 2018-06-24 05:30:02+09:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-08-01 00:00+09:00\n"
+"Last-Translator: koyacode <wordpress@it-soudan.com>\n"
+"Language-Team: koyacode <wordpress@it-soudan.com>\n"
+
+#. Plugin Name of the plugin/theme
+msgid "Simple PAY.JP Payment"
+msgstr "Simple PAY.JP Payment"
+
+#. Plugin URI of the plugin/theme
+msgid "https://it-soudan.com/simple-payjp-payment/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Add payment by PAY.JP"
+msgstr "PAY.JPによる支払い機能を追加します"
+
+#. Author of the plugin/theme
+msgid "koyacode"
+msgstr "koyacode"
+
+#. Author URI of the plugin/theme
+msgid "https://it-soudan.com/"
+msgstr "https://it-soudan.com/"
+
+msgid "Test Public Key"
+msgstr "テスト公開鍵"
+
+msgid "Live Public Key"
+msgstr "本番公開鍵"
+
+msgid "Test Secret Key"
+msgstr "テスト秘密鍵"
+
+msgid "Live Secret Key"
+msgstr "本番秘密鍵"
+
+msgid "Enable Live"
+msgstr "本番運用する"
+
+msgid "mandatory"
+msgstr "必須"
+
+msgid "Save"
+msgstr "変更を保存"
+
+msgid "Invalid key"
+msgstr "key の値が不正です"
+
+msgid "Invalid amount value"
+msgstr "amount の値が不正です"
+
+msgid "Invalid form id"
+msgstr "フォームID の値が不正です"
+
+msgid "amount is empty"
+msgstr "amount の値が設定されていません"
+
+msgid "form-id is empty"
+msgstr "form-id の値が設定されていません"
+
+msgid "Payment completed"
+msgstr "支払いが完了しました。"
+
+msgid "Payment failed"
+msgstr "支払いが失敗しました。"
+
+msgid "Name"
+msgstr "氏名"
